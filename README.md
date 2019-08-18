@@ -21,6 +21,8 @@ sudo docker ps -a
 sudo docker exec -it container_name(id) /bin/bash
 
 ### rabbitmq 접속
-http://127.0.0.1/15672
+http://127.0.0.1/15672 <br>
+ID  : admin  <br>
+Pass: asdf12 <br>
 
 ## Docker Public Repository & docker registry Server 
