@@ -17,7 +17,7 @@ sudo docker run -it -p 5672:5672 -p 15672:15672 pegasus-rabbitmq
 sudo docker run -it pegasus-rabbitmq:latest /bin/bash 
 
 ### Docker container 접속
-sudo docker ps -a
+sudo docker ps -a <br>
 sudo docker exec -it container_name(id) /bin/bash
 
 ### rabbitmq 접속
